@@ -1,5 +1,5 @@
 
-# CogniCart – Engine-1 (Product Intelligence Engine)
+# CogniCart – Engine-1 (Automated Attribute Extraction Engine)
 
 **Engine-1** is the AI-powered product catalog ingestion service for **CogniCart**. It serves as the intelligent entry point for the platform, processing seller product submissions through advanced AI understanding to output highly structured and enriched product catalog data.
 
